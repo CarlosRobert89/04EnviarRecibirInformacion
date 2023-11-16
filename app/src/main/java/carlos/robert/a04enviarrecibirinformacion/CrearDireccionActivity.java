@@ -26,7 +26,6 @@ public class CrearDireccionActivity extends AppCompatActivity {
                 String calle;
                 int numero;
                 String ciudad;
-
             }
         });
     }
